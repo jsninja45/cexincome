@@ -1,0 +1,19 @@
+		   .wizard > .actions
+		   {
+				   display:none  !important;
+		 
+		   }
+		   	   .wizard > .actions .disabled
+		   {
+			   display:none  !important;
+		   }
+		   .wizard > .content > .body label.error
+		   {
+		   display:none  !important;
+		   }
+		   .steps 
+		   {
+		    display:none  !important;
+		   }
+		     .importantRule { height: 800px !important; }
+		   
